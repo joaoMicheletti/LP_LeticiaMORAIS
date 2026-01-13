@@ -406,6 +406,10 @@
     font-size: 16px;
 }
 @media (max-width: 600px) {
+    .Preco {
+        font-size: 50px;
+        width: 80%;
+    }
     .kairah {
         display: flex;
         flex-direction: column;
